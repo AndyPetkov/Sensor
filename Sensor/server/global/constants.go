@@ -1,0 +1,16 @@
+package global
+
+var Token string = "fTuXfKh2ma6V8JZNHNo-CsVk0VY-pD8gNgbAMMH2WzcBm-vvF_FFRsbMxMrI59S_dDwisv1p1d6OZ2wKptaPgw=="
+var Bucket string = "Bucket"
+var Org string = "SAP"
+var URL string = "http://localhost:8086"
+var Device string = "device"
+var Sensor string = "sensor"
+var SensorID string = "sensorID"
+var DeviceID string = "deviceID"
+var StartTime string = "startTime"
+var EndTime string = "endTime"
+var SensorID1 string = "sensorID1"
+var DeviceID1 string = "deviceID1"
+var SensorID2 string = "sensorID2"
+var DeviceID2 string = "deviceID2"
